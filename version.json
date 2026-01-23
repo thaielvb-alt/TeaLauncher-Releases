@@ -1,6 +1,6 @@
 {
-  "latest_version": "7.3",
-  "mandatory": true,
+  "latest_version": "7.2",
+  "mandatory": false,
   "changelog": "- ✨ Se agrego un sistema de actualizaciones automáticas multiplataforma\n- 🐛 Arreglo de bugs menores\n- ⚡ Mejoras de rendimiento\n- 📱 Mas soporte para Windows y Linux\n- 🔄 Actualizaciones opcionales y obligatorias\n- 📝 Mejor manejo de errores\n- 🔥 Arreglo a bugs de java",
   "download_urls": {
     "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
