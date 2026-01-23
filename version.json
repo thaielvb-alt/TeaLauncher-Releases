@@ -1,0 +1,7 @@
+{
+  "version": 7.2,
+  "mandatory": true,
+  "changelog": "- Arreglado bug de rutas de Java - Mejorado rendimiento en Linux",
+  "url_windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
+  "url_linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/linux/TeaLauncher"
+}
