@@ -1,9 +1,10 @@
 {
-  "latest_version": "7.2",
+  "latest_version": "7.2.1",
   "mandatory": false,
   "changelog": "- ✨ Sistema de actualizaciones automáticas multiplataforma\n- 🐛 Arreglo de bugs menores\n- ⚡ Mejoras de rendimiento\n- 📱 Soporte para Windows y Linux\n- 🔄 Actualizaciones opcionales y obligatorias\n- 📝 Mejor manejo de errores",
   "download_urls": {
     "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
     "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/linux/TeaLauncher"
-  }
+    }
 }
+
