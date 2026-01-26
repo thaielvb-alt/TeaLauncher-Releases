@@ -5,6 +5,12 @@
   "download_urls": {
     "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
     "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/linux/TeaLauncher"
-    }
+    },
+  "experimental_version": "7.3.0-BETA",
+  "exp_changelog": "AVISO: Sistema de shaders experimental. Puede crashear.",
+  "experimental_urls": {
+    "windows": "https://raw.githubusercontent.com/tu-usuario/repo/main/experimental/windows/TeaLauncherExp.exe",
+    "linux": "https://raw.githubusercontent.com/tu-usuario/repo/main/experimental/linux/TeaLauncherExp"
+  }   
 }
 
