@@ -6,7 +6,7 @@
     "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
     "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/linux/TeaLauncher"
   },
-  "experimental": true,
+  "experimental": false,
   "experimental_version": "7.2.6-BETA",
   "exp_changelog": "AVISO: Sistema de shaders experimental. Puede crashear.",
   "experimental_urls": {
