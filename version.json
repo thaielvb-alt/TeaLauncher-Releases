@@ -1,5 +1,5 @@
 {
-  "latest_version": "7.2.7 Fixed Version",
+  "latest_version": "7.2.7",
   "mandatory": true,
   "changelog": "- ✨ Se agregaron arreglos y mejoras al instalador de version, loaders y java.\n- ✨ Ahora antes de una instalacion si no se encuentra java en el sistema se instala java 8 para instalar lo deseado.\n- ✨ Tambien se implemento la capacidad de elegir el directorio .minecraft, carpeta personal o por defecto.",
   "download_urls": {
