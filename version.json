@@ -1,13 +1,13 @@
 {
-  "latest_version": "7.2.6",
-  "mandatory": false,
-  "changelog": "- ✨ Se agrega una actualizacion al sistema de actualizaciones\n- ✨ se agrega un nuevo tipo de actualizacion disponible\n- ✨ actualizaciones 'experimentales', las cuales no son obligatorias y descarga una aplicacion de launcher aparte.",
+  "latest_version": "7.2.7 Fixed Version",
+  "mandatory": true,
+  "changelog": "- ✨ Se agregaron arreglos y mejoras al instalador de version, loaders y java.\n- ✨ Ahora antes de una instalacion si no se encuentra java en el sistema se instala java 8 para instalar lo deseado.\n- ✨ Tambien se implemento la capacidad de elegir el directorio .minecraft, carpeta personal o por defecto.",
   "download_urls": {
     "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
     "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/linux/TeaLauncher"
   },
   "experimental": false,
-  "experimental_version": "7.2.7-BETA",
+  "experimental_version": "7.2.8-BETA",
   "exp_changelog": "AVISO: Sistema de experimental de prueba.",
   "experimental_urls": {
     "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/experimental/windows/TeaLauncherExp.exe",
