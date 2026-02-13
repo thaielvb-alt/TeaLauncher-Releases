@@ -1,7 +1,7 @@
 {
-  "latest_version": "7.2.8",
+  "latest_version": "7.2.9",
   "mandatory": true,
-  "changelog": "- ✨ Se agregaron arreglos y mejoras al instalador de version, loaders y java.\n- ✨ Ahora antes de una instalacion si no se encuentra java en el sistema se instala java 8 para instalar lo deseado.\n- ✨ Tambien se implemento la capacidad de elegir el directorio .minecraft, carpeta personal o por defecto, y arreglos en inicio en Windows.",
+  "changelog": "- ✨ Se agregaron mejoras al java auto y ubicacion de carpeta de Minecraft\n✨ se mejoro el sistema de deteccion de java\n✨ se arreglaron errores de java en Windows",
   "download_urls": {
     "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
     "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/linux/TeaLauncher"
