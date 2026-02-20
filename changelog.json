@@ -1,14 +1,74 @@
 [
   {
+    "version": "7.3.0 - (ACTUAL)",
+    "nombre": "Version Update",
+    "que_agrego": "-✨ La version mejora el sistema de actualizacion.\n-✨ Se agrega mejoras al instalar Minecraft o algun loader, ahora puede visualizar cuanto falta para terminar(aproximado), archivos que faltan descargar, y que se esta instalando.\n-✨ Tambien se agrego un nuevo boton de Feedback para ver versiones anteriores del launcher.",
+    "fecha_publicacion": "20/02/2026"
+  }  
+  {
     "version": "7.2.9",
     "nombre": "Fixed Files",
-    "que_agrego": "- La versión agrega mejoras al java auto y ubicacion de carpeta de Minecraft, se mejoro el sistema de deteccion de java y se\narreglaron errores de java en Windows",
+    "que_agrego": "-✨ La versión agrego mejoras al java auto y ubicacion de carpeta de Minecraft, mejoro el sistema de deteccion de java y se arreglaron errores de java en Windows",
     "fecha_publicacion": "Indefinido"
   },
   {
-    "version": "7.2.0",
-    "nombre": "UI Update",
-    "que_agrego": "- Nueva barra lateral\n- Soporte para temas",
-    "fecha_publicacion": "01/01/2026"
+    "version": "7.2.8",
+    "nombre": "Minor Fixes",
+    "que_agrego": "-✨ La versión agrega arreglos y mejoras al instalador de version, loaders y java, ahora antes de una instalacion si no se encuentra java en el sistema se instala java 8 para instalar lo deseado, y tambien se implemento la capacidad de elegir el directorio .minecraft, carpeta personal o por defecto, y arreglos en inicio en Windows.",
+    "fecha_publicacion": "Indefinido"
+  }
+  {
+    "version": "7.2.7",
+    "nombre": "Fixed Version",
+    "que_agrego": "-✨ La versión agrega arreglos y mejoras al instalador de version, loaders y java, ahora antes de una instalacion si no se encuentra java en el sistema se instala java 8 para instalar lo deseado, y tambien se implemento la capacidad de elegir el directorio .minecraft, carpeta personal o por defecto.",
+    "fecha_publicacion": "Indefinido"
+  }
+  {
+    "version": "7.2.6",
+    "nombre": "Full Version",
+    "que_agrego": "-✨ La versión agrega una actualizacion al sistema de actualizaciones, y se agrega un nuevo tipo de actualizacion disponible, actualizaciones 'experimentales', las cuales no son obligatorias y descarga una aplicacion de launcher aparte.",
+    "fecha_publicacion": "Indefinido"
+  }
+  {
+    "version": "7.2.4",
+    "nombre": "Perdido",
+    "que_agrego": "Informacion desaparecida.",
+    "fecha_publicacion": "Indefinido"
+  }
+  {
+    "version": "7.2.3",
+    "nombre": "Perdido",
+    "que_agrego": "Informacion desaparecida.",
+    "fecha_publicacion": "Indefinido"
+  }
+  {
+    "version": "7.2.2",
+    "nombre": "Perdido",
+    "que_agrego": "Informacion desaparecida.",
+    "fecha_publicacion": "Indefinido"
+  }
+  {
+    "version": "7.2",
+    "nombre": "more_data_update",
+    "que_agrego": "Informacion desaparecida.",
+    "fecha_publicacion": "Indefinido"
+  }
+  {
+    "version": "7.1",
+    "nombre": "Full Version",
+    "que_agrego": "-✨ La versión agrega arreglo de errores, como java path y java auto, ahora se descarga el java que necesita la versión y se guarda en .minecraft/TeaLauncherJavas, y se arreglan otros posibles bugs como la RAM. Incluye sistema de actualizaciones automáticas multiplataforma. Igual se recomienda proceder con discreción.",
+    "fecha_publicacion": "Indefinido"
+  }
+  {
+    "version": "7.0",
+    "nombre": "Full Version",
+    "que_agrego": "-✨ Creacion de Interfaz grafica",
+    "fecha_publicacion": "Indefinido"
+  }
+  {
+    "version": "6.9",
+    "nombre": "Final Terminal",
+    "que_agrego": "-✨ Esta version es el final de las versiones Terminal de Tea's Launcher, de aqui para abajo puede que falte informacion",
+    "fecha_publicacion": "Indefinido"
   }
 ]
