@@ -1,0 +1,14 @@
+[
+  {
+    "version": "7.2.9",
+    "nombre": "Fixed Files",
+    "que_agrego": "- La versión agrega mejoras al java auto y ubicacion de carpeta de Minecraft, se mejoro el sistema de deteccion de java y se\narreglaron errores de java en Windows",
+    "fecha_publicacion": "Indefinido"
+  },
+  {
+    "version": "7.2.0",
+    "nombre": "UI Update",
+    "que_agrego": "- Nueva barra lateral\n- Soporte para temas",
+    "fecha_publicacion": "01/01/2026"
+  }
+]
