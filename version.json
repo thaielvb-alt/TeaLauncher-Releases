@@ -1,7 +1,7 @@
 {
-  "latest_version": "7.2.9",
+  "latest_version": "7.3.0",
   "mandatory": true,
-  "changelog": "- ✨ Se agregaron mejoras al java auto y ubicacion de carpeta de Minecraft\n✨ se mejoro el sistema de deteccion de java\n✨ se arreglaron errores de java en Windows",
+  "changelog": "-✨ La version mejora el sistema de actualizacion.\n-✨ Se agrega mejoras al instalar Minecraft o algun loader, ahora puede visualizar cuanto falta para terminar(aproximado), archivos que faltan descargar, y que se esta instalando.\n-✨ Tambien se agrego un nuevo boton de Feedback para ver versiones anteriores del launcher.",
   "download_urls": {
     "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
     "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/linux/TeaLauncher"
