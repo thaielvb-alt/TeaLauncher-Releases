@@ -1,7 +1,7 @@
 {
-  "latest_version": "7.3.0",
+  "latest_version": "7.3.1",
   "mandatory": true,
-  "changelog": "-✨ La version mejora el sistema de actualizacion.\n-✨ Se agrega mejoras al instalar Minecraft o algun loader, ahora puede visualizar cuanto falta para terminar(aproximado), archivos que faltan descargar, y que se esta instalando.\n-✨ Tambien se agrego un nuevo boton de Feedback para ver versiones anteriores del launcher.",
+  "changelog": "-✨ La version mejora el sistema de instalador de versiones y Loaders de Minecraft, actualizando la interfaz de instalacion.\n-✨ Se mejoro la seccion de Skins, pudiendo visualizar como seria la skin a usar.\n-✨ Se añadio un nuevo sistema de Reportes de Errores para informar al administrador errores de la aplicacion.\n-✨ Tambien se han solucionado errores de compatibilidad.\n-✨ Se informa que ciertas funciones pueden tener errores en esta version y que dependiendo del sistema operativo se necesite modificaciones, se recomienda ir con cautela",
   "download_urls": {
     "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
     "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/linux/TeaLauncher"
@@ -15,3 +15,4 @@
   }
 }
          
+
