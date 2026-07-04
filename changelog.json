@@ -1,12 +1,12 @@
 [
   {
-    "version": "7.3.2 - (Last)",
-    "nombre":"",
-    "que_agrego":"",
-    "fecha_publicacion":""
+    "version": "7.3.2 - (ULTIMA VERSION)",
+    "nombre":"Java Fix",
+    "que_agrego":"La version arreglar un problema con el nuevo sistema de versiones '26.X', ahora se instala Java 25 en el modo Java-Auto para estas versiones o superior.",
+    "fecha_publicacion":"04/07/26"
   },
   {
-    "version": "7.3.1 - (ULTIMA VERSION)",
+    "version": "7.3.1",
     "nombre": "Visuals and Bugs Fixes",
     "que_agrego":"-✨ La version mejora el sistema de instalador de versiones y Loaders de Minecraft, actualizando la interfaz de instalacion.\n-✨ Se mejoro la seccion de Skins, pudiendo visualizar como seria la skin a usar.\n-✨ Se añadio un nuevo sistema de Reportes de Errores para informar al administrador errores de la aplicacion.\n-✨ Tambien se han solucionado errores de compatibilidad.\n-✨ Se informa que ciertas funciones pueden tener errores en esta version y que dependiendo del sistema operativo se necesite modificaciones, se recomienda ir con cautela",
     "fecha_publicacion": "23/02/2026"
