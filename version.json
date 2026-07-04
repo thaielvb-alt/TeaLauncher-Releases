@@ -1,6 +1,6 @@
 {
   "latest_version": "7.3.2",
-  "mandatory": true,
+  "mandatory": false,
   "changelog": "-✨ La version arreglar un problema con el nuevo sistema de versiones '26.X', ahora se instala Java 25 en el modo Java-Auto para estas versiones o superior.",
   "download_urls": {
     "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
