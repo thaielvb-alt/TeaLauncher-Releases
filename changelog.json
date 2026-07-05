@@ -2,6 +2,12 @@
   {
     "version": "7.3.2 - (ULTIMA VERSION)",
     "nombre":"Java Fix",
+    "que_agrego":"-✨ La version arreglar un problema con el nuevo sistema de versiones '26.X', ahora se instala Java 25 en el modo Java-Auto para estas versiones o superior.\n-✨ Tambien se solucionaron problemas con la deteccion del java automatico.\n Y Agrego la capacidad de un nuevo soporte a futuro que ayudara a detectar a futuro mejoras necesarias.",
+    "fecha_publicacion":"05/07/26"
+  },
+  {
+    "version": "7.3.2 - (ULTIMA VERSION)",
+    "nombre":"Java Fix",
     "que_agrego":"La version arreglar un problema con el nuevo sistema de versiones '26.X', ahora se instala Java 25 en el modo Java-Auto para estas versiones o superior.",
     "fecha_publicacion":"04/07/26"
   },
