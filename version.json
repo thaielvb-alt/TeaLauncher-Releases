@@ -1,7 +1,7 @@
 {
-  "latest_version": "7.3.3",
+  "latest_version": "7.3.4",
   "mandatory": false,
-  "changelog": "-✨ La version arreglar un problema con el nuevo sistema de versiones '26.X', ahora se instala Java 25 en el modo Java-Auto para estas versiones o superior.\n-✨ Tambien se solucionaron problemas con la deteccion del java automatico.\n Y Agrego la capacidad de un nuevo soporte a futuro que ayudara a detectar a futuro mejoras necesarias.",
+  "changelog": "-✨ La version arregla un problema con los instaladores de 'Quilt' y 'Neoforge', ahora se instalan correctamente.\n-✨ Tambien se agrego un nuevo menu de informes, donde se ven actualizacion y avances sobre TeaLauncher.",
   "download_urls": {
     "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
     "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/linux/TeaLauncher"
