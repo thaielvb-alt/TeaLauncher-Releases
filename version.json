@@ -1,5 +1,5 @@
 {
-    "latest_version": "7.3.5",
+    "latest_version": "7.3.6",
     "mandatory": false,
     "changelog": "-✨ La version arregla un problema con los instaladores de 'Quilt' y 'Neoforge', ahora se instalan correctamente.\n-✨ Tambien se agrego un nuevo menu de informes, donde se ven actualizacion y avances sobre TeaLauncher.",
     "download_urls": {
