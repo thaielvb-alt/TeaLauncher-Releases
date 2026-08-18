@@ -1,6 +1,12 @@
 [
   {
-    "version": "7.3.5 - (ULTIMA VERSION)",
+    "version": "7.3.6 - (ULTIMA VERSION)",
+    "nombre":"Maintenance & Informs",
+    "que_agrego":"-✨ La version arregla un problema con los instaladores de 'Quilt' y 'Neoforge', ahora se instalan correctamente.\n-✨ Tambien se agrego un nuevo menu de informes, donde se ven actualizacion y avances sobre TeaLauncher.",
+    "fecha_publicacion":"17/08/26"
+  },
+  {
+    "version": "7.3.5",
     "nombre":"Maintenance & Informs",
     "que_agrego":"-✨ La version arregla un problema con los instaladores de 'Quilt' y 'Neoforge', ahora se instalan correctamente.\n-✨ Tambien se agrego un nuevo menu de informes, donde se ven actualizacion y avances sobre TeaLauncher.",
     "fecha_publicacion":"17/08/26"

@@ -13,7 +13,7 @@
         "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/experimental/windows/TeaLauncherExp.exe",
         "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/experimental/linux/TeaLauncherExp"
     },
-    "dev_active": true,
+    "dev_active": false,
     "dev_version": "7.3.6-dev",
     "dev_mandatory": true,
     "dev_changelog": "Pruebas del nuevo sistema de actualizaciones.",
