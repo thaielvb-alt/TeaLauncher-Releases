@@ -1,8 +1,8 @@
 {
-  "latest_version": "7.3.6",
+  "latest_version": "7.3.7",
   "mandatory": false,
   "min_version": "7.3.6",
-  "changelog": "-✨ La versión arregla un problema con los instaladores de 'Quilt' y 'Neoforge', ahora se instalan correctamente.\n-✨ También se agregó un nuevo menú de informes, donde se ven actualizaciones y avances sobre TeaLauncher.",
+  "changelog": "-✨ La versión reestructuró todo el sistema interno del launcher, lo que permitirá mejores actualizaciones y un mejor sistema.",
 
   "download_urls": {
     "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
@@ -10,8 +10,8 @@
   },
 
   "sha256": {
-    "windows": "HASH_ESTABLE_WINDOWS",
-    "linux": "HASH_ESTABLE_LINUX"
+    "windows": "9265EC7A4E063560C9A5A4B80AC7297EA0BC32F235DCF21A95286B93CEF14273",
+    "linux": "BFEE240ACCC0DDA5CAC87D5D15743D10CC3155942DBC5DD45DE769B4BC74707D"
   },
 
   "experimental": false,
@@ -39,7 +39,7 @@
   },
 
   "dev_sha256": {
-    "windows": "9265EC7A4E063560C9A5A4B80AC7297EA0BC32F235DCF21A95286B93CEF14273",
+    "windows": "9265EC7A4E063560C9A5A4B80AC7297EA0BC32F235DCF21A95286B93CEF14275",
     "linux": "BFEE240ACCC0DDA5CAC87D5D15743D10CC3155942DBC5DD45DE769B4BC74707D"
   }
 }
