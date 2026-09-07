@@ -1,6 +1,12 @@
 [
+    {
+    "version": "7.3.7 - (ULTIMA VERSION)",
+    "nombre":"New Structure",
+    "que_agrego":"-✨ La version reestructuro todo el sistema interno del launcher, lo que va a permitir mejores actualizaciones y un mejor sistema.",
+    "fecha_publicacion":"06/09/26"
+  },
   {
-    "version": "7.3.6 - (ULTIMA VERSION)",
+    "version": "7.3.6",
     "nombre":"Maintenance & Informs",
     "que_agrego":"-✨ La version arregla un problema con los instaladores de 'Quilt' y 'Neoforge', ahora se instalan correctamente.\n-✨ Tambien se agrego un nuevo menu de informes, donde se ven actualizacion y avances sobre TeaLauncher.",
     "fecha_publicacion":"17/08/26"

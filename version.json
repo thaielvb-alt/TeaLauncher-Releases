@@ -1,24 +1,45 @@
 {
-    "latest_version": "7.3.6",
-    "mandatory": false,
-    "changelog": "-✨ La version arregla un problema con los instaladores de 'Quilt' y 'Neoforge', ahora se instalan correctamente.\n-✨ Tambien se agrego un nuevo menu de informes, donde se ven actualizacion y avances sobre TeaLauncher.",
-    "download_urls": {
-        "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
-        "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/linux/TeaLauncher"
-    },
-    "experimental": false,
-    "experimental_version": "7.2.8-BETA",
-    "exp_changelog": "AVISO: Sistema de experimental de prueba.",
-    "experimental_urls": {
-        "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/experimental/windows/TeaLauncherExp.exe",
-        "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/experimental/linux/TeaLauncherExp"
-    },
-    "dev_active": false,
-    "dev_version": "7.3.6-dev",
-    "dev_mandatory": true,
-    "dev_changelog": "Pruebas del nuevo sistema de actualizaciones.",
-    "dev_download_urls": {
-        "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/dev/windows/TeaLauncherDev.exe",
-        "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/dev/linux/TeaLauncherDev"
-    }
+  "latest_version": "7.3.6",
+  "mandatory": false,
+  "min_version": "7.3.6",
+  "changelog": "-✨ La versión arregla un problema con los instaladores de 'Quilt' y 'Neoforge', ahora se instalan correctamente.\n-✨ También se agregó un nuevo menú de informes, donde se ven actualizaciones y avances sobre TeaLauncher.",
+
+  "download_urls": {
+    "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/windows/TeaLauncher.exe",
+    "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/linux/TeaLauncher"
+  },
+
+  "sha256": {
+    "windows": "HASH_ESTABLE_WINDOWS",
+    "linux": "HASH_ESTABLE_LINUX"
+  },
+
+  "experimental": false,
+  "experimental_version": "7.2.8-BETA",
+  "exp_changelog": "AVISO: Sistema experimental de prueba.",
+
+  "experimental_urls": {
+    "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/experimental/windows/TeaLauncherExp.exe",
+    "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/experimental/linux/TeaLauncherExp"
+  },
+
+  "experimental_sha256": {
+    "windows": "HASH_EXPERIMENTAL_WINDOWS",
+    "linux": "HASH_EXPERIMENTAL_LINUX"
+  },
+
+  "dev_active": true,
+  "dev_version": "7.3.7-dev",
+  "dev_mandatory": true,
+  "dev_changelog": "-✨ La versión reestructuró todo el sistema interno del launcher, lo que permitirá mejores actualizaciones y un mejor sistema.",
+
+  "dev_download_urls": {
+    "windows": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/dev/windows/TeaLauncherDev.exe",
+    "linux": "https://github.com/thaielvb-alt/TeaLauncher-Releases/raw/main/dev/linux/TeaLauncherDev"
+  },
+
+  "dev_sha256": {
+    "windows": "9265EC7A4E063560C9A5A4B80AC7297EA0BC32F235DCF21A95286B93CEF14273",
+    "linux": "BFEE240ACCC0DDA5CAC87D5D15743D10CC3155942DBC5DD45DE769B4BC74707D"
+  }
 }
